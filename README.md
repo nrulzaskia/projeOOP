@@ -1,2 +1,2 @@
 # projeOOP
-ini adalah projek oop saya
+ini adalah projek OOP, yang saya buat untuk praktikum
